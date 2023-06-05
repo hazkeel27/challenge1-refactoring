@@ -1,3 +1,4 @@
+/*Universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*CSS is applied to the header which includes the h1 tag as well as links for the navigation bar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*Adds the image to main page and applies visuals to it*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/*CSS is applied to the navigation bar on the right side of the web page through benefit class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +138,7 @@ p {
     max-width: 150px;
 }
 
+/*The following classes apply visuals to the section below the giant image on the webpage*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/*CSS is applied to the footer tag*/
 .footer {
     padding: 30px;
     clear: both;
