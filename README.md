@@ -18,9 +18,7 @@ This is a simple static website hence there are no instructions on how to use it
 
 Below is a screenshot of the main page for your reference.
 
-    ```md
-    ![Main Screenshot](assets/images/main-screenshot.png)
-    ```
+![main-screenshot](https://github.com/hazkeel27/challenge1-refactoring/assets/55248924/ddc57431-41b3-4c12-8cce-8a20514bb844)
 
 ## Credits
 
